@@ -1,0 +1,9 @@
+@media all{body{background-color: #e0ffff}}
+@media print{body{background-color: white;}}
+div{color: #444444;font-weight: bold; margin-left: auto; margin-right: auto;float: left; }
+.text1{width: 80%;}
+.text2{width: 60%;}
+.div1{float: left;}
+.div2{float: right;}
+textarea{width: 78%; height: 30%; resize: none; vertical-align: top}
+img{vertical-align: top}
